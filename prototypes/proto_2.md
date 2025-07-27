@@ -17,7 +17,6 @@ Qwen3 Technical Report [arXiv:2505.09388v1](https://arxiv.org/pdf/2505.09388)
 - Heads : 16 (Q) / 8 (KV)
 - Tie Embedding : Yes
 - Context Length : 32K
-- 
 
 ### Training
 - Pre-trained on 36 Trillion tokens (119 languages and dialects)
